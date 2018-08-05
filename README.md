@@ -8,5 +8,5 @@ Reading Primary Sources:
 - [QALMRI instruction hand-out for students](https://nbrosowsky.github.io/course-materials/QALMRI/QALMRI-instructions.pdf)
 
 Cognitive Psychology (2017-2018)
-[Course Website](https://nbrosowsky.github.io/course-materials/cognitive-psychology-2017/index.html)
-[Code Repository](www.github.com/nbrosowsky/course-materials/cognitive-psychology-2017/)
+- [Course Website](https://nbrosowsky.github.io/course-materials/cognitive-psychology-2017/index.html)
+- [Code Repository](www.github.com/nbrosowsky/course-materials/cognitive-psychology-2017/)
